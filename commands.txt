@@ -1,0 +1,14 @@
+create
+add 200000 vertices
+build -6 7 3000 36
+bin 0 164 9
+bin 1 148 5
+bin 2 128 3
+bin 3 70 2
+bin 4 66 2
+bin 5 54 2
+bin 6 28 2
+bin 7 20 3
+bin 8 32 1
+bin 9 24 2
+commit
